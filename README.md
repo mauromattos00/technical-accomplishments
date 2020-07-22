@@ -1,6 +1,32 @@
 # Mauro Mattos - Conquistas Técnicas
 
-Desenvolvi esse repositório para registrar minhas conquistas técnicas ao longo do tempo.
+Documento onde registro meus aprendizados e experiências técnicas na minha vida como desenvolvedor
+
+### Back End
+
+#### PHP
+
+Com o CodeIgniter pude contribuir no desenvolvimento de uma  uma aplicação de gerenciamento completo de um e-commerce. A aplicação controlava diversos fluxos do vendedor, como:
+
+- Gerenciamento de estoque
+- Gerenciamento de produtos
+- Evolução de pedidos/Vendas
+- Contatos de fornecedores
+- Compra de produtos para o estoque
+
+Desenvolvi diversar telas para o sistema utilizando componentes pré-estilizados do template __Gentelella__
+
+Realizei também integrações do sistema com sites de comércio eletrônico, como:
+- B2W (Americanas.com)
+- Magazine Luiza
+
+> Ferramentas/bibliotecas utilizadas: CodeIgniter 2, Gentelella
+
+#### Python
+
+ Com o Scrapy desenvolvi Web Crawlers para a coleta de informações de diversos sites de E-Commerce
+
+ > Ferramentas/bibliotecas utilizadas: requests, scrapy, google-cloud, aws, etc.
 
 ### Continuous Integration
 
